@@ -13,6 +13,7 @@ __Aelflaed__
 [Aretha Univerba](/camelot)  
   
 __Androids__  
+  
 ###Journal Entries
 
 {% for post in site.posts %}
