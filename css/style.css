@@ -1,4 +1,7 @@
 body {
-  background-color: #555555; }
+  background-color: #555555;
+  font: Helvetica, Times New Roman;
+  color: #ffffff;
+  text-align: center; }
 
 /*# sourceMappingURL=style.css.map */
