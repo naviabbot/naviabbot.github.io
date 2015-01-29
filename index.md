@@ -4,19 +4,19 @@ title: Navi's char hub
 ---
 #Navi's Char Hub
 
-<nav>
-
-###Links to the characters
+<nav>  
+  
+###Links to the characters  
 __Universal__  
-[Navicia Abbot](/navi)
+[Navicia Abbot](/navi)  
   
 __Aelflaed__  
 [Yingying Univerba](/mizu)  
 [Aretha Univerba](/camelot)  
-
-__Androids__
-
-</nav>
+  
+__Androids__  
+  
+</nav>  
 
 ###Journal Entries
 
