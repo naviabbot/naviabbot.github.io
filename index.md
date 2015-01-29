@@ -4,6 +4,7 @@ title: Navi's char hub
 ---
 #Navi's Char Hub
 
+<nav>
 ###Links to the characters
 __Universal__  
 [Navicia Abbot](/navi)
@@ -13,7 +14,7 @@ __Aelflaed__
 [Aretha Univerba](/camelot)  
 
 __Androids__
-
+</nav>
 
 ###Journal Entries
 

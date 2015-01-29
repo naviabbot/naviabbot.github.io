@@ -1,10 +1,14 @@
 body {
   background-color: #555555;
   font-family: 'Open Sans', sans-serif;
+  }
+  
+h1 {
   color: #ffffff;
-  text-align: center; }
+  text-align: center;
+  }
 
-a {
+nav {
   background-color: rgba(215, 44, 44, 0.4);
   text-decoration: none;
   }
