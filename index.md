@@ -1,11 +1,22 @@
 ---
 layout: default
+title: Navi's char hub
 ---
-#Hi there
+#Navi's Char Hub
 
-###About Me
+###Links to the characters
+__Universal__  
+[Navicia Abbot](/navi)
+  
+__Aelflaed__  
+[Yingying Univerba](/mizu)  
+[Aretha Univerba](/camelot)  
+
+__Androids__
+
 
 ###Journal Entries
+
 {% for post in site.posts %}
 * {{ post.date | date_to_string }}  {{ post.title }}({{post.url}})
 {% endfor %}
