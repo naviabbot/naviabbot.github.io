@@ -1,5 +1,5 @@
 port: 8080
-detach: true
+detach: false
 lsi: true
 safe: false
 timezone: America/Chicago
