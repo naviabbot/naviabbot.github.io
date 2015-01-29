@@ -1,7 +1,7 @@
 ---
-layout: default
+layout: profile
 title: Navi Abbot
 ---
 #Navicia Abbot
   
-###Guardian of the Galaxy, Kitsune of Transformation, Mother, Friend, Sister, Aunt, etc.
+>Navi Abbot desu. Kitsune no Henshin!

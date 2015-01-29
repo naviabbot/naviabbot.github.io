@@ -1,0 +1,24 @@
+body {
+  background-color: #555555;
+  font-family: 'Open Sans', sans-serif;
+  }
+  
+  h1 {
+  color: #ffffff;
+  text-align: center;
+  }
+  
+  h2 {
+  color: #ffffff;
+  text-align: center;
+  }
+  
+  h3 {
+  color: #ffffff;
+  text-align: center;
+  }
+  
+  p {
+  background-color: rgba(215, 135, 44, 0.4);
+  color: #ffffff;
+  }
