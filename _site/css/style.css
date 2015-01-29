@@ -1,7 +1,31 @@
 body {
   background-color: #555555;
-  font: Helvetica, Times New Roman;
+  font-family: 'Open Sans', sans-serif;
+  }
+  
+h1 {
   color: #ffffff;
-  text-align: center; }
+  text-align: center;
+  }
 
-/*# sourceMappingURL=style.css.map */
+nav {
+  background-color: rgba(215, 44, 44, 0.4);
+  text-decoration: none;
+  color:white;
+  float: left;
+  width: 250px;
+  position: relative;
+  }
+
+p {
+  background-color: rgba(215, 135, 44, 0.4);
+  color: #ffffff;
+  }
+
+.blog {
+  text-align: center;
+  color: white;
+  background-color: rgba(215, 135, 44, 0.4);
+  float: right;
+  width: 75.5%;
+  }

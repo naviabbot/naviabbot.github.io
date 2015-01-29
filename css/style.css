@@ -11,9 +11,21 @@ h1 {
 nav {
   background-color: rgba(215, 44, 44, 0.4);
   text-decoration: none;
+  color:white;
+  float: left;
+  width: 250px;
+  position: relative;
   }
 
 p {
   background-color: rgba(215, 135, 44, 0.4);
   color: #ffffff;
+  }
+
+.blog {
+  text-align: center;
+  color: white;
+  background-color: rgba(215, 135, 44, 0.4);
+  float: right;
+  width: 75.5%;
   }
