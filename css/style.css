@@ -5,6 +5,11 @@ body {
   text-align: center; }
 
 a {
-  background-color: #ff66ff;
+  background-color: rgba(215, 44, 44, 0.4);
   text-decoration: none;
+  }
+
+p {
+  background-color: rgba(215, 135, 44, 0.4);
+  color: #ffffff;
   }
