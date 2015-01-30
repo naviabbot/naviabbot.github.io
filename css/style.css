@@ -20,6 +20,8 @@ nav {
 p {
   background-color: rgba(215, 135, 44, 0.4);
   color: #ffffff;
+  float: right;
+  width: 75.4%;
   }
 
 .blog {

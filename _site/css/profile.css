@@ -19,11 +19,16 @@ body {
   }
   
   p {
-  background-color: rgba(215, 135, 44, 0.4);
   color: #ffffff;
   }
   
   blockquote {
   text-align: center;
   font-size: 10px;
+  }
+
+  img {
+  height: 25%;
+  width: 25%;
+  float: right;
   }
