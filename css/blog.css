@@ -1,0 +1,30 @@
+body {
+  background-color: #555555;
+  font-family: 'Open Sans', sans-serif;
+  }
+  
+  h1 {
+  color: #ffffff;
+  text-align: center;
+  }
+  
+  h2 {
+  color: #ffffff;
+  text-align: center;
+  }
+  
+  h3 {
+  color: #ffffff;
+  text-align: center;
+  }
+  
+  p {
+  color: #ffffff;
+  background-color: rgba(65, 168, 67, 0.9);
+  }
+
+  img {
+  height: 25%;
+  width: 25%;
+  float: right;
+  }
