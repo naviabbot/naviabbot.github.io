@@ -1,6 +1,7 @@
 ---
-layout: profile
+layout: page
 title: Ralcanina Blackclaw
+permalink: /universal/ralcanina/
 ---
 
 #Ralcanina Blackclaw  

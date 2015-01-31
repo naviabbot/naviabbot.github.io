@@ -1,6 +1,7 @@
 ---
-layout: profile
+layout: page
 title: Aretha, Queen of Camelot
+permalink: /aelflaed/aretha/
 ---
 
 #Aretha, Queen of Camelot  

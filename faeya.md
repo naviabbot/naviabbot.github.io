@@ -1,6 +1,7 @@
 ---
-layout: profile
+layout: page
 title: Faeya, Goddess of Purity
+permalink: /androids/faeya/
 ---
 
 #Faeya, Goddess of Purity  

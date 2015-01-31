@@ -1,6 +1,7 @@
 ---
-layout: profile
+layout: page
 title: Meliana Kaimaika
+permalink: /universal/Meliana/
 ---
 
 #Meliana Kaimaika  

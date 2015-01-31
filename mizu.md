@@ -1,6 +1,7 @@
 ---
-layout: profile
+layout: page
 title: Yingying Univerba/Mizuru Maelstrom
+permalink: /aelflaid/mizu/
 ---
 
 >These two characters are one and the same, Pony Mizuru is only found in Equestria based rooms.  

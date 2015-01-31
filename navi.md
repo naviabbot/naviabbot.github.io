@@ -1,6 +1,7 @@
 ---
-layout: profile
+layout: page
 title: Navi Abbot
+permalink: /universal/navi/
 ---
 #Navicia Abbot
 

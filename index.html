@@ -1,36 +1,23 @@
 ---
 layout: default
-title: Navi's char hub *WIP*
 ---
 
-<h1>Navi's Char Hub</h1>
+<div class="home">
 
-<nav>
-<b>Universal</b><br>
-<a href="universal/navi">Navicia Abbot</a><br>
-<!-- Add Navibee as part of Navi -->
-<a href="universal/hawaii">Meliana Kaimaika</a><br>
-<a href="universal/ralcanina">Ralcanina Blackclaw</a><br>
-<b>Aelflaed</b><br>
-<a href="aelflaed/mizu">Yingying Univerba</a><br>
-<!-- Add Mizuru Maelstrom as part of Yingying -->
-<a href="aelflaed/camelot">Aretha Univerba</a><br>
-<b>Androids</b><br><i>Divine are marked with a star.</i><br>
-*<a href="androids/aquaris">Aquaris</a><br>
-*<a href="androids/faeya">Faeya</a><br>
-<a href="androids/luvia">Lady Luvia</a><br>
-<a href="androids/aamstrad">Alice Amstrad</a><br>
-<a href="androids/darkscale">Lady Darkscale</a><br>
-<b>Cosplay</b><br>
-<a href="cosplay/lina">Lina Inverse</a><br>
-<a href="cosplay/synn">Synn the Night Dragon</a><br>
-<a href="cosplay/slendana">Slendana</a><br>
-<a href="cosplay/cadance">Rubbery Cadance</a><br>
-</nav>
-<div class="blog">
-Please pardon the mess... It's a work of labor and progress.
-<h3>Journal Entries</h3><br>
-{% for post in site.posts %}
-{{ post.date | date_to_string }} <a href="{{post.url}}">{{ post.title }}</a>
-{% endfor %}
+  <h1 class="page-heading">Posts</h1>
+
+  <ul class="post-list">
+    {% for post in site.posts %}
+      <li>
+        <span class="post-meta">{{ post.date | date: "%b %-d, %Y" }}</span>
+
+        <h2>
+          <a class="post-link" href="{{ post.url | prepend: site.baseurl }}">{{ post.title }}</a>
+        </h2>
+      </li>
+    {% endfor %}
+  </ul>
+
+  <p class="rss-subscribe">subscribe <a href="{{ "/feed.xml" | prepend: site.baseurl }}">via RSS</a></p>
+
 </div>
