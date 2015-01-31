@@ -1,5 +1,6 @@
 # Site settings
 title: Navi's Char Hub
+email: naviabbot@yahoo.com
 description: > # this means to ignore newlines until "baseurl:"
   A blog for all of my characters
 baseurl: "" # the subpath of your site, e.g. /blog/
