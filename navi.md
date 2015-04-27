@@ -35,9 +35,6 @@ _Her mission is to help her older sister, Athenia, in any way possible, whether 
 ###Liquid Metal Kyuubi  
 _After spending some time with her sister, [Kiana Univerba](https://www.f-list.net/c/kiana%20univerba/), she found herself much different. A liquid metal, black and red kyuubi, who's very substance can be spread to others. If you don't look out, you might join the family._  
 
-###Navi Delta  
-_After a bit of fun with [Kaethia Alpha](https://www.f-list.net/c/Kaethia%20Alpha/), the foxy found herself as a weaponized, mechanized version of her people. She's raring to fight and help her big sister make more into the family._  
-
 ###Starlight Kitsune  
 _This Christmas, the woman she would hardly bat two lashes at gave her an interesting gift in the form of a Noh mask. Once she put it on, her fur became dark and dotted with starlight and her eyes began to glow. Her power increased to that on a galactic incarnate level._  
 
