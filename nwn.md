@@ -10,8 +10,8 @@ permalink: /projects/nwnlinux/
 * A copy of NwN Diamond from GOG.com
 * [This post made by GOG.com User vv221](https://www.gog.com/forum/neverwinter_nights_series/linux_install_neverwinter_nights_on_debianubuntumintsteamos/post12) *note: if you are not a debian user, the files on this post are helpful*
 * __Optional__: [NwMovies](https://github.com/nwnlinux/nwmovies)
-* __OPTIONAL__: A video editor that uses FFMPEG. My choice - [Shotcut](http://www.shotcut.org/)
-*7zip
+* __OPTIONAL__: A video editor that uses FFMPEG. My choice - [Shotcut](http://www.shotcut.org/)  
+*7zip  
 *Kingmaker Reinstaller
 
 ## Steps
