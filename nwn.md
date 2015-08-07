@@ -1,7 +1,7 @@
 ---
 layout: page
 title: How to Install Neverwinter Nights - Linux
-permalink: /projects/nwnlinux/
+permalink: /nwnlinux/
 ---
 
 # How to install Neverwinter Nights on Linux (GOG.com ver)

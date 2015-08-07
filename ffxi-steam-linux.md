@@ -1,7 +1,7 @@
 ---
 layout: page
 title: Installing FFXI on Linux via Steam
-permalink: /projects/ffxi-steam-linux/
+permalink: /ffxi/
 ---
 
 # How to install Final Fantasy XI on Linux via Steam  
