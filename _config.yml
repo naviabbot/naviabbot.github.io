@@ -1,8 +1,8 @@
 # Site settings
-title: Navi's Char Hub
+title: Navi's Linux Gaming Hub
 email: naviabbot@yahoo.com
 description: > # this means to ignore newlines until "baseurl:"
-  A blog for all of my characters
+  Install Guides and Gaming Vids
 baseurl: "" # the subpath of your site, e.g. /blog/
 url: "http://yourdomain.com" # the base hostname & protocol for your site
 
