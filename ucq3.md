@@ -4,8 +4,10 @@ title: Ultimate Chex Quest 3
 permalink: /ucq3/
 ---
 
-# Introducing Ultimate Chex Quest 3
+# Introducing Ultimate Chex Quest 3  
+
 ## Brutality for Breakfast
+
 
 Many people have done it before, overlaying Brutal Doom over Chex Quest 3.
 
